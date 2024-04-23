@@ -1,2 +1,2 @@
-# Exit Universal Gameserver
-- https://discord.gg/exitfn
+# Blend 3.5 - 12.41
+- https://discord.gg/blendfn
